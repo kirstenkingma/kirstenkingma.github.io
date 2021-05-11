@@ -92,4 +92,7 @@ main .contact {
     .grid {
         grid-template-columns: 1fr;
     }
+    header > h1 {
+        font-size: 3rem;
+    }
 }
