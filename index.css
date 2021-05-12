@@ -44,11 +44,11 @@ header div {
 }
 
 .language a, a:hover{
-    color:#ffffff;
+    color:#000000;
 }
 
 .language a:visited{
-    color:#565656;
+    color:#454545;
 }
 
 .introduction {
