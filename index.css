@@ -39,6 +39,10 @@ header div {
     padding: 10px;
     border-bottom: #B1D8B7 1px solid;
 }
+.logo img {
+    width: 50px;
+    padding: 20px;
+}
 
 .contact {
     display: grid;
