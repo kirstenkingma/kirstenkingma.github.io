@@ -37,8 +37,12 @@ header div {
     max-width: 66%;
     align-self: center;
     padding: 10px;
+}
+
+.introduction {
     border-bottom: #B1D8B7 1px solid;
 }
+    
 .logo img {
     width: 50px;
     padding: 10px;
