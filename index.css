@@ -47,6 +47,10 @@ header div {
     color:#ffffff;
 }
 
+.language a:visited{
+    color:#a9a9a9;
+}
+
 .introduction {
     border-bottom: #B1D8B7 1px solid;
 }
