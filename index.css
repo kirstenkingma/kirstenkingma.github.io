@@ -40,7 +40,11 @@ header div {
 }
 
 .language {
-        text-align: center;
+    text-align: center;
+}
+
+.language a, a:hover{
+    color:#ffffff;
 }
 
 .introduction {
